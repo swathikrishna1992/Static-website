@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript</title>
+  </head>
+  <body>
+    <h2>Contact Details</h2>
+
+    <button onclick="myFunction()">clickHere</button>
+
+    <p id="demo"></p>
+
+    <script>
+      function myFunction() {
+        var txt;
+        if (confirm("Press a button!")) {
+          txt =
+            "mailId:swathikrishna1992@gmail.com<br>Github link:https://github.com/swathikrishna1992";
+        } else {
+          txt = "Press OK for details!";
+        }
+        document.getElementById("demo").innerHTML = txt;
+      }
+    </script>
+  </body>
+</html>

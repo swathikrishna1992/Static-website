@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 100vh;
+}
+.navbar-style {
+  box-shadow: 0 5px 10px rgb(226, 218, 218);
+  background-color: rgb(178, 195, 211);
+}
