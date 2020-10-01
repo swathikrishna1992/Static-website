@@ -1,3 +1,3 @@
-Static-html-css-bootstrap-js-website
+Static-Html-CSS-Bootstrap-Js-Website
 
-A simple static website built using HTML, CSS, BOOTSTRAP and JAVASCRIPT
+A simple and beautiful static website built using HTML, CSS, BOOTSTRAP and JAVASCRIPT
